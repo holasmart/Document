@@ -1,10 +1,10 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: keyestudio docs
+   :caption: Holasmart Document
 
    README.md
-   docs/keyestudio/index
+   docs/index
 
 
 
